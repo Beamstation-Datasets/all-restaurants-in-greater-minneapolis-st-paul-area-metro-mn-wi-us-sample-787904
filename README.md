@@ -1,6 +1,6 @@
 # All Restaurants in Greater Minneapolis-St. Paul Area (Metro), MN-WI, US
 
-> Free BeamStation sample export with 579 rows and masked direct-contact fields.
+> Free BeamStation sample export with 280 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `787904` |
 | Location | Minneapolis-St. Paul-Bloomington, MN-WI |
 | Category | Restaurants |
-| Full dataset size | 5,797 records |
-| Free sample size | 579 records (9.99%) |
-| Last export | 2026-04-14T19:43:34.652872+00:00 |
+| Full dataset size | 2,804 records |
+| Free sample size | 280 records (9.99%) |
+| Last export | 2026-04-21T21:42:15.815611+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-greater-minneapolis-st-paul-area-metro-mn-wi-us-sample-787904/releases/download/sample-latest/beamstation_787904_restaurants-us-minneapolisstpaulbloomingtonmnwi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
