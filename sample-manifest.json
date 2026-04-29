@@ -1,12 +1,12 @@
 {
-  "export_job_id": "01972d10-ea17-413f-9c20-582691cb75ca",
+  "export_job_id": "e515308b-36b4-4ce0-9700-e2f0cc016fc6",
   "id_short": 787904,
-  "published_at": "2026-04-22T07:59:29Z",
+  "published_at": "2026-04-29T07:16:36Z",
   "repo_name": "all-restaurants-in-greater-minneapolis-st-paul-area-metro-mn-wi-us-sample-787904",
   "sample_asset_name": "beamstation_787904_restaurants-us-minneapolisstpaulbloomingtonmnwi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/787904/beamstation_787904_restaurants-us-minneapolisstpaulbloomingtonmnwi_SAMPLE_DIST.csv",
-  "sample_records": 280,
-  "sample_sha256": "ba10e9de23937079f08a31f1791fadf0d77aed8c56d1935a96b6b1c75e2d1eb5",
-  "sample_size_bytes": 1054538,
-  "total_records": 2804
+  "sample_records": 575,
+  "sample_sha256": "d3f923f84478f490e5170062c3981114e8dca25cb88310133b0a36aff4437a89",
+  "sample_size_bytes": 1980338,
+  "total_records": 5751
 }
